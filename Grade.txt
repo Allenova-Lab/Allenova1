@@ -1,0 +1,6 @@
+Alice 85
+Bob 73
+Charlie 77
+Diana 20
+Ethan 60
+Jerome 100
