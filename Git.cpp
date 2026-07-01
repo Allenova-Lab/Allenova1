@@ -4,5 +4,5 @@ using namespace std;
 
 int main()
 {
-    cout << "first git" << endl;
+    cout << "first git branch by allen" << endl;
 }
